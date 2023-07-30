@@ -111,9 +111,7 @@ You should have received a copy of the GNU General Public License along with thi
 		<item name="menuitem2" caption="About Panzer Network IN Gauge" onClick="menuitem2OnClick"/>
 		<item name="menuitem16" caption="Widget Preferences" onClick="menuitem8OnClick"/>
 		<item name="menuitem3" caption=" "/>
-		<item name="menuitem5" caption="Donate a Beer with Paypal!" onClick="menuitem5OnClick"/>
-		<item name="menuitem6" caption="Donate some sweets using Amazon" onClick="menuitem6OnClick"/>
-		<item name="menuitem7" caption="Vote on Rocketdock" onClick="menuitem7OnClick"/>
+		<item name="menuitem5" caption="Donate a Coffee with Ko-Fi" onClick="menuitem5OnClick"/>
 		<item name="menuitem8" caption="." enabled="false"/>
 		<item name="menuitem20" caption="Panzer Network Gauge Help" onClick="menuitem20OnClick"/>
 		<item name="menuitem19" caption="Online help and other online options">

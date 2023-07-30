@@ -390,12 +390,12 @@ function menuitem4OnClick(Sender)
 //=========================================================================
 function menuitem5OnClick(Sender)
 {
-          if (confirm2("Help support the creation of more widgets like this, send us a beer! This button opens a browser window and connects to the Paypal donate page for this widget). Will you be kind and proceed?"))
+          if (confirm2("Help support the creation of more widgets like this, send us a coffee! This button opens a browser window and connects to the Ko-Fi donate page for this widget). Will you be kind and proceed?"))
           {
-                openURL("https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=info@lightquick.co.uk&currency_code=GBP&amount=2.50&return=&item_name=Donate%20a%20Beer");
+                openURL("https://www.ko-fi.com/yereverluvinunclebert");
 		if (preferencessoundprefvalue.text != "disabled") {
 			PlaySound(winding);
-		}          
+		}
            }
 }
 //=====================
