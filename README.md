@@ -2,9 +2,9 @@
 
 Panzer Wireless Gauge Widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+.
 
-![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/a57f0a10-ef83-48d6-b03c-6ecde9b86eed)
+![panzer-wirelessphoto750](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/b4398510-a31c-44a6-9973-46e9070ef627)
 
-A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder communities.This Panzer widget is a simple wireless strength gauge. Functional and gorgeous at the same time. The graphics are my own, I took original inspiration from a clock face by Italo Fortana. 
+A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder communities. This Panzer widget is a simple wireless strength gauge. Functional and gorgeous at the same time. The graphics are my own, I took original inspiration from a clock face by Italo Fortana. 
 
 I took the screenshot photo. It looks like 1944 but it was 2004! The image above 
 was shot at Beltring in Kent. I've had to do some serious photoshopping to 
@@ -19,12 +19,11 @@ The middle button selects the wireless device. Hovering over any control should 
 
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
 
-All javascript widgets need an engine to function, in this case the widget uses the Yahoo Widget Konfabulator engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
-
+All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
 All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
-![large](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0880400d-bcd5-4d25-a41d-dedde51aa0ff)
+![Default2](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/78d85020-a542-415f-9c9f-264aff9d86f9)
 
 This is based on the similar Yahoo widget implementation. The graphic interface and operation of the two types of widgets are the same. The only differences are the configuration preference utility (this has a cut-down 
 version), the language is Micrososoft's JScript (rather than javascript) and of course, it is the Xwidget engine that is utilised to put the widget on your screen.
@@ -39,7 +38,7 @@ All Jscript widgets need an engine to function, in this case the widget uses
 the XWidget engine. The engine interprets the Jscript and creates the widget 
 according to the XML description and using the images you provide. 
 
-![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/39cb2e2a-30a2-4927-98e2-d9dbdf460fc9)
+![wireless-icon-01](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/63238f42-1723-42de-a8bf-3b2a410b5c74)
 
 Built using: 
 
@@ -76,7 +75,7 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
-![panzer-clock-help-750](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/04345ae0-7e73-4f8e-8cb2-7bfe28056f63)
+![wireless-icon-01](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/1c2d9a7a-0215-4db9-b380-27fb394ee6d4)
 
 Instructions for running XWidgets on Windows
 =================================================
@@ -86,7 +85,7 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-![security](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/c85f5900-a811-4f76-9952-61fb3621c6bf)
+ ![panzer-wireless-gauge-help](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/a52da218-3151-4ae5-b3a7-d0aa768eb45f)
 
 LICENCE AGREEMENTS:
 
@@ -99,7 +98,7 @@ original artist using my name or one of my pseudonyms and a link to my site.
 With regard to the commercial use of incorporated images, permission and a
 licence would need to be obtained from the original owner and creator, ie. me.
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0fab7f72-0938-4362-bbec-6e1cc8a07159)
+![about](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/1e39148e-22bc-43e5-8513-79581b478f23)
 
 
  
