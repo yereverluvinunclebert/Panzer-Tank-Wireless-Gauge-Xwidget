@@ -21,8 +21,6 @@ Right clicking will bring up a menu of options. Double-clicking on the widget wi
 
 All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
-All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
-
 ![Default2](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/78d85020-a542-415f-9c9f-264aff9d86f9)
 
 This is based on the similar Yahoo widget implementation. The graphic interface and operation of the two types of widgets are the same. The only differences are the configuration preference utility (this has a cut-down 
