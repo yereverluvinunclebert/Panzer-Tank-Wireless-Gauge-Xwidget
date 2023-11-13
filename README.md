@@ -6,6 +6,10 @@ Panzer Wireless Gauge Widget, written in Jscript for the XWidget Engine. Created
 
 A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder communities. This Panzer widget is a simple wireless strength gauge. Functional and gorgeous at the same time. The graphics are my own, I took original inspiration from a clock face by Italo Fortana. 
 
+**************************************************************************************
+In general, I would suggest that you use the Yahoo Widget version of this program. You will find that here: https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget - The reason for this is that the old XWidget engine is no longer supported and elements of it use VBScript (which Microsoft has deprecated). The Yahoo widget is better, just as easy to use and will be supported for the foreseeable future. Note that I will be creating a replacement for both soon using VB.
+**************************************************************************************
+
 I took the screenshot photo. It looks like 1944 but it was 2004! The image above 
 was shot at Beltring in Kent. I've had to do some serious photoshopping to 
 remove any traces of modernity. There were lots. Addition of some grain, 
