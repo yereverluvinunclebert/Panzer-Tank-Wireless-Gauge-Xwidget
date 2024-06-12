@@ -1,5 +1,7 @@
 # Panzer Tank-Wireless-Gauge Xwidget
 
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-Wireless-Gauge-VB6
+
 Panzer Wireless Gauge Widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+.
 
 ![panzerX-wirelessphoto-1440x](https://github.com/yereverluvinunclebert/Panzer-Tank-Wireless-Gauge-Xwidget/assets/2788342/4c7d69b3-e632-48ac-b541-356ddd9a491f)
